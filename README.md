@@ -1,5 +1,5 @@
 
-# twinBASIC 
+![twinBASIC](https://twinbasic.com/images/twinBASIClogo1.png)
 
 twinBASIC is a modern version of the classic BASIC programming language.  With twinBASIC we aim for 100% backwards compatibility with existing VB6 and VBA projects.
 
