@@ -7,6 +7,9 @@ We aspire to offer a complete replacement development environment for classic BA
 
 ## This is a work-in-progress project.  We currently offer a preview version of the compiler via our website:      https://twinbasic.com/
 
+## CHANGE LOG:
+https://marketplace.visualstudio.com/items/twinbasic.twinbasic/changelog
+
 # This repository is for tracking bug reports and feature requests only.
 
 ## Download / install
