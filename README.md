@@ -13,7 +13,7 @@ We aspire to offer a complete replacement development environment for classic BA
 
 At the moment, the best way of supporting us it to try out the preview version of twinBASIC and contribute to the issues, bug reports and discussions here at our GitHub repo. 
 
-If you'd like to support is a little more, then you could always...<br><br>
+If you'd like to support us a little more, then you could always...<br><br>
 <a href='https://ko-fi.com/twinbasic' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
 <br><br>
 
