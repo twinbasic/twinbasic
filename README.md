@@ -18,7 +18,9 @@ If you'd like to support us a little more, then you could always...<br><br>
 <br><br>
 
 ## CHANGE LOG
-https://marketplace.visualstudio.com/items/twinbasic.twinbasic/changelog
+https://github.com/twinbasic/twinbasic/releases
+
+<br>The release history for the early VS Code versions of twinBASIC can be accessed [here](https://marketplace.visualstudio.com/items/twinbasic.twinbasic/changelog)
 <br><br>
 
 ## DOWNLOAD / INSTALL
