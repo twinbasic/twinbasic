@@ -27,12 +27,15 @@ https://github.com/twinbasic/twinbasic/releases
 Please review the preview documentation at the main twinBASIC website:
 https://twinbasic.com/preview.html
 <br><br>
+To go directly to the downloads, visit the **[Releases](https://github.com/twinbasic/twinbasic/releases)** section.
 
 ## BUG REPORTS / FEATURE REQUESTS / SUPPORT
 Please report any bugs through the github issues on this repository:
-https://github.com/WaynePhillipsEA/twinbasic/issues
+https://github.com/twinbasic/twinbasic/issues
 
 You can also come talk to us on our Discord server: https://discord.gg/UaW9GgKKuE
+
+The [twinBASIC Wiki](https://github.com/twinbasic/documentation/wiki) is our main documentation resource, and includes the [twinBASIC FAQ](https://github.com/twinbasic/documentation/wiki/twinBASIC-Frequently-Asked-Questions-(FAQs)) and [List of features new to twinBASIC](https://github.com/twinbasic/documentation/wiki/twinBASIC-Features) among other resources.
 
 You can also get in touch with Wayne Phillips, lead developer of twinBASIC through twitter:
 
